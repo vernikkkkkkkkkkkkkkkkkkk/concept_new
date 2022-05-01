@@ -4,7 +4,7 @@
 ## Определение
 Аппаратное обеспечение компьютера — это общее описание для всех механических и электронных компонентов компьютерной системы.
 
-![hardware](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/images/hardware.png "Рис. 1. Структура аппаратного обеспечения ПК.")
+![hardware](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/images/hardware.png "Структура аппаратного обеспечения ПК.")
 
 ## Связь с другими понятиями
 [virtual machines](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/virtual%20machines/virtual%20machines.md)
