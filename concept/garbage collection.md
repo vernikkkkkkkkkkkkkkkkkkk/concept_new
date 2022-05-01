@@ -2,26 +2,17 @@
 сборка мусора(eng: garbage collection) 
 
 ## Определение
-В Java памятью управляет JVM с помощью процесса, который называется сборкой мусора — он непрерывно определяет и удаляет неиспользуемую память в Java-приложениях.
+Сборщик мусора Garbage Collector выполняет всего две задачи, связанные с поиском мусора и его очисткой. Для обнаружения мусора существует два подхода :
+
+Reference counting – учет ссылок;
+Tracing – трассировка.
+Reference counting
+Суть подхода «Reference counting» связана с тем, что каждый объект имеет счетчик, который хранит информацию о количестве указывающих на него ссылок. При уничтожении ссылки счетчик уменьшается. При нулевом значении счетчика объект можно считать мусором.
+
+Главным недостатком данного подхода является сложность обеспечения точности счетчика и «невозможность» выявлять циклические зависимости. Так, например, два объекта могут ссылаться друг на друга, но ни на один из них нет внешней ссылки. Это сопровождается утечками памяти. В этой связи данный подход не получил распространения.
+
+Tracing
+Главная идея «Tracing» связана с тем, что до «живого» объекта можно добраться из корневых точек (GC Root). Всё, что доступно из «живого» объекта, также является «живым». Если представить все объекты и ссылки между ними как дерево, то необходимо пройти от корневых узлов GC Roots по всем узлам. При этом узлы, до которых нельзя добраться, являются мусором.
+![garbage collection](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/images/garbage-collection.png)
 
 ## Связь с другими понятиями
-[virtual machines](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/virtual%20machines/virtual%20machines.md)
-
-[VMware workstation](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/examples%20of%20virtual%20machines%20used%20with%20programming%20languages/c(c%2B%2B)/VMware%20workstation.md)
-
-[darlik](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/examples%20of%20virtual%20machines%20used%20with%20programming%20languages/c(c%2B%2B)/darlik.md)
-
-[parrot](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/examples%20of%20virtual%20machines%20used%20with%20programming%20languages/c(c%2B%2B)/parrot.md)
-
-[virtual box](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/examples%20of%20virtual%20machines%20used%20with%20programming%20languages/c(c%2B%2B)/virtual%20box.md)
-
-[java virtual machine](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/examples%20of%20virtual%20machines%20used%20with%20programming%20languages/java/java%20virtual%20machine.md)
-
-[specimen](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/examples%20of%20virtual%20machines%20used%20with%20programming%20languages/java/three%20main%20parts/specimen.md)
-
-[specification](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/examples%20of%20virtual%20machines%20used%20with%20programming%20languages/java/three%20main%20parts/specification.md)
-
-[implementation](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/examples%20of%20virtual%20machines%20used%20with%20programming%20languages/java/three%20main%20parts/implementation.md)
-
-[PVM](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/examples%20of%20virtual%20machines%20used%20with%20programming%20languages/python/PVM.md)
-
