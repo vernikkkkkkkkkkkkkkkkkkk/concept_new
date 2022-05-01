@@ -9,6 +9,8 @@
 Байт-код является промежуточным языком между хост-системой и исходным кодом Java.
 
 JVM отвечает за распределение памяти.
+
+
 ![jvm](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/images/jvm.png)
 
 ## Связь с другими понятиями
