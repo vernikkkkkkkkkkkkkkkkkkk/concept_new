@@ -2,25 +2,13 @@
 виртуальная машина "Java" (eng: "Java" virtual machine) 
 
 ## Определение
-Виртуальная машина Java — основная часть исполняющей системы Java, так называемой Java Runtime Environment (JRE).
+Виртуальная машина Java (JVM) – это механизм, обеспечивающий среду выполнения для управления Java-кодом или приложениями. Он преобразует байт-код Java в машинный язык. JVM является частью Java Run Environment (JRE). В других языках программирования компилятор создает машинный код для конкретной системы. Однако компилятор Java создает код для виртуальной машины, известной как виртуальная машина Java.
+
+Во-первых, Java-код компилируется в байт-код. Этот байт-код интерпретируется на разных машинах.
+
+Байт-код является промежуточным языком между хост-системой и исходным кодом Java.
+
+JVM отвечает за распределение памяти.
+![jvm](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/images/jvm.png)
+
 ## Связь с другими понятиями
-[virtual machines](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/virtual%20machines/virtual%20machines.md)
-
-[VMware workstation](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/examples%20of%20virtual%20machines%20used%20with%20programming%20languages/c(c%2B%2B)/VMware%20workstation.md)
-
-[darlik](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/examples%20of%20virtual%20machines%20used%20with%20programming%20languages/c(c%2B%2B)/darlik.md)
-
-[parrot](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/examples%20of%20virtual%20machines%20used%20with%20programming%20languages/c(c%2B%2B)/parrot.md)
-
-[virtual box](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/examples%20of%20virtual%20machines%20used%20with%20programming%20languages/c(c%2B%2B)/virtual%20box.md)
-
-[garbage collection](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/examples%20of%20virtual%20machines%20used%20with%20programming%20languages/java/garbage%20collection.md)
-
-[specimen](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/examples%20of%20virtual%20machines%20used%20with%20programming%20languages/java/three%20main%20parts/specimen.md)
-
-[specification](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/examples%20of%20virtual%20machines%20used%20with%20programming%20languages/java/three%20main%20parts/specification.md)
-
-[implementation](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/examples%20of%20virtual%20machines%20used%20with%20programming%20languages/java/three%20main%20parts/implementation.md)
-
-[PVM](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/examples%20of%20virtual%20machines%20used%20with%20programming%20languages/python/PVM.md)
-
