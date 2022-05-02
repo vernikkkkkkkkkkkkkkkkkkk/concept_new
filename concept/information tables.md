@@ -10,7 +10,7 @@
 
 К атрибутам относятся тип идентификатора, его адрес в объектной программе и любая другая информация о нем, которая может понадобиться при генерации объектной программы.
 
-![lexical analyzer](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/images/lexical%20analyzer.png "Общая схема работы лексического анализатора")
+
 ## Связь с другими понятиями
 
 [virtual machines](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/virtual%20machines/virtual%20machines.md)
