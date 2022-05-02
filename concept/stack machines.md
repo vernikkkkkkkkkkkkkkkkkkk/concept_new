@@ -2,7 +2,18 @@
 стековые машины (eng: stack machines) 
 
 ## Определение
-Стековая виртуальная машина реализует основные, описанные свойства [виртуальной машины](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/virtual%20machines/virtual%20machines.md), но в качестве структуры данных, куда помещаются операнды, используется стек. 
+Стековая виртуальная машина реализует основные, описанные свойства [виртуальной машины](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/virtual%20machines/virtual%20machines.md), но в качестве структуры данных, куда помещаются операнды, используется стек.
+
+ Блок-схема «Классической Стековой Машины»:
+ 
+ 
+![stack_machine](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/images/stack_machine.png "Блок-схема «Классической Стековой Машины»")
+
+Каждый блок на схеме представляет часть машинной логики, соответствующей минимально необходимому компоненту конструкции. 
+
+В число таких компонентов входят: «шина данных» ( data bus ), «стек данных» ( DS ), «стек адресов возврата» или просто «стек возврата» ( RS ), «арифметическо-логическое устройство» ( ALU ) с регистром «вершина стека» ( TOS ), «счетчик программы» ( PC ), «программная память» с «регистром адреса памяти» ( MAR ), управляющая логика с «регистром инструкций» ( IR ) и секция «ввода-вывода» ( I/O ).
+
+
 
 ## Связь с другими понятиями
 [virtual machines](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/virtual%20machines/virtual%20machines.md)
