@@ -4,35 +4,28 @@
 ## Определение
 Кэш-память - это способ организации совместного функционирования двух типов запоминающих устройств, отличающихся временем доступа и стоимостью хранения данных, который позволяет уменьшить среднее время доступа к данным за счет динамического копирования в "быстрое" ЗУ наиболее часто используемой информации из "медленного" ЗУ.
 
+В системах, оснащенных кэш-памятью, каждый запрос к оперативной памяти
+выполняется в соответствии со следующим алгоритмом:
+
+1. Просматривается содержимое кэш-памяти с целью определения, не
+находятся ли нужные данные в кэш-памяти; кэш-память не является
+адресуемой, поэтому поиск нужных данных осуществляется по
+содержимому - значению поля &quot;адрес в оперативной памяти&quot;, взятому из
+запроса.
+
+2. Если данные обнаруживаются в кэш-памяти, то они считываются из нее, и
+результат передается в процессор.
+
+3. Если нужных данных нет, то они вместе со своим адресом копируются из
+оперативной памяти в кэш-память, и результат выполнения запроса
+передается в процессор. При копировании данных может оказаться, что в
+кэш-памяти нет свободного места, тогда выбираются данные, к которым в
+последний период было меньше всего обращений, для вытеснения из кэш-
+памяти. Если вытесняемые данные были модифицированы за время
+нахождения в кэш-памяти, то они переписываются в оперативную память.
+Если же эти данные не были модифицированы, то их место в кэш-памяти
+объявляется свободным.
 ## Связь с другими понятиями
 
-[memory management](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/memory%20management/memory%20management.md)
-
-[computer system](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/memory%20management/computer%20system.md)
-
-[memory allocation by fixed partitions](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/memory%20management/memory%20allocation%20by%20fixed%20partitions.md)
-
-[memory allocation by moving partitions](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/memory%20management/memory%20allocation%20by%20moving%20partitions.md)
-
-[memory allocation by partitions of variable size](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/memory%20management/memory%20allocation%20by%20partitions%20of%20variable%20size.md)
-
-[memory](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/memory%20management/memory.md)
-
-[paged memory allocation](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/memory%20management/paged%20memory%20allocation.md)
-
-[physical address](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/memory%20management/physical%20address.md)
-
-[physical  memory](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/memory%20management/physical%20memory.md)
-
-[segment-page memory allocation](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/memory%20management/segment-page%20memory%20allocation.md)
-
-[segmented memory allocation](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/memory%20management/segmented%20memory%20allocation.md)
-
-[swapping](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/memory%20management/swapping.md)
-
-[virtual memory](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/memory%20management/virtual%20memory.md)
-
 ## Cсылка на библиографию
-
-[tolstobrov-architecture-book](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/bibliography/memory%20management/tolstobrov-architecture-book.md)
 
