@@ -5,8 +5,7 @@
 Распределение памяти разделами переменной величины — память машины не делится заранее на разделы. Сначала вся память свободна. Каждой вновь поступающей задаче выделяется необходимая ей память. Если достаточный объем памяти отсутствует, то задача не принимается на выполнение и стоит в очереди. После завершения задачи память освобождается, и на это место может быть загружена другая задача. Таким образом, в произвольный момент времени оперативная память представляет собой случайную последовательность 
 занятых и свободных участков (разделов) произвольного размера. 
 
-![memory allocation by partitions of variable size]
-(https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/images/memory%20allocation%20by%20partitions%20of%20variable%20size.png)
+![memory allocation by partitions of variable size](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/images/memory%20allocation%20by%20partitions%20of%20variable%20size.png)
 Задачами операционной системы при реализации данного метода управления
 памятью является:
 
