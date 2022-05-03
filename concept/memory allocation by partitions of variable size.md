@@ -6,6 +6,7 @@
 занятых и свободных участков (разделов) произвольного размера. 
 
 ![memory allocation by partitions of variable size](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/images/memory%20allocation%20by%20partitions%20of%20variable%20size.png)
+
 Задачами операционной системы при реализации данного метода управления
 памятью является:
 
