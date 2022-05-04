@@ -37,7 +37,7 @@ Erlang ERTS BEAM
 Система базовых операций. В нее входят операции ввода-вывода, управления процессами и другие базовые операции.
 
 
-
+![virtual machines](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/images/virtual%20machines.png)
 
 ## Связь с другими понятиями
 
