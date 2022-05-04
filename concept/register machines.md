@@ -10,7 +10,7 @@
 
 Пример работы регистровой машины на основе операции сложения:
 
-![register_add](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/images/registeradd.png)
+![register_add](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/images/register_machine.svg)
 
 За счет отсутствия операций POP и PUSH команды в регистровой виртуальной машине выполняются достаточно быстро.
 
