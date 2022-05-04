@@ -10,7 +10,7 @@
 
 Пример работы регистровой машины на основе операции сложения:
 
-![register_add](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/images/register_machine.svg)
+![register_add](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/images/registeradd.png)
 
 За счет отсутствия операций POP и PUSH команды в регистровой виртуальной машине выполняются достаточно быстро.
 
@@ -18,7 +18,7 @@
 
 Схема регистровой машины:
 
-![register machine](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/images/register_machine.png)
+![register machine](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/images/register_machine.svg)
 
 На иллюстрации приведена условная схема “регистровой машины”, которая состоит из трёх частей: процессора, выполняющего операции над натуральными числами, программы (ПЗУ), которая представляет собой последовательность пронумерованных инструкций и памяти (ОЗУ), состоящей из пронумерованных регистров.
 
