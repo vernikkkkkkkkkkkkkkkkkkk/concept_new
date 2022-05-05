@@ -10,4 +10,5 @@
 
 
 ## Cсылка на библиографию
+[bayanov-programming-book{2}](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/bayanov-programming-book%7B2%7D.md)
 
