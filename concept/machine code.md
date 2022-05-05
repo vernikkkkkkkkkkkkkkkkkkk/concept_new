@@ -11,5 +11,6 @@
 ## Связь с другими понятиями
 
 ## Cсылка на библиографию
+[bayanov-programming-book](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/bayanov-programming-book.md)
 
 
