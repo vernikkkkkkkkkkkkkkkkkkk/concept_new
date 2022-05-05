@@ -28,4 +28,5 @@
 ## Связь с другими понятиями
 
 ## Cсылка на библиографию
+[tanenbaum-architecture-book{2}](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/tanenbaum-architecture-book%7B2%7D.md)
 
