@@ -14,5 +14,6 @@ RISC (Restricted Instruction Set Computer) - архитектура процес
 
 
 ## Cсылка на библиографию
+[eagles-oraganization-book{4}](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/eagles-%D0%BErganization-book%7B4%7D.md)
 
 
