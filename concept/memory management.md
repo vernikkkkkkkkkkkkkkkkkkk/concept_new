@@ -7,4 +7,5 @@
 ## Связь с другими понятиями
 
 ## Cсылка на библиографию
+[coconut-memory-book](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/coconut-memory-book.md)
 
