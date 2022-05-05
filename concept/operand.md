@@ -17,3 +17,6 @@
 
 ## Связь с другими понятиями
 
+## Библиография
+[tanenbaum-systems-book{5}](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/tanenbaum-systems-book%7B5%7D.md)
+
