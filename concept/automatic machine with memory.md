@@ -13,4 +13,4 @@
 ## Связь с другими понятиями
 
 ## Библиография
-![polykarpov-programming-book](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/bibliography/virtual%20machines/polykarpov-programming-book.md)
+.[polykarpov-programming-book](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/bibliography/virtual%20machines/polykarpov-programming-book.md)
