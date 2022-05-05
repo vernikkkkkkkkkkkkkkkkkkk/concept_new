@@ -10,4 +10,5 @@
 ## Связь с другими понятиями
 
 ## Cсылка на библиографию
+[tanenbaum-systems-book{2}](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/brooks-systems-book%7B2%7D.md)
 
