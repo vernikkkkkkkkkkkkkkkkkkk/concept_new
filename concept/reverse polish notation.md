@@ -19,4 +19,5 @@ oбратная польская запись(eng: reverse polish notation)
 ## Связь с другими понятиями
 
 ## Cсылка на библиографию
+[tuesdays-stack-book{3}](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/tuesdays-stack-book%7B3%7D.md)
 
