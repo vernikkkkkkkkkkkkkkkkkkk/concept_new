@@ -28,4 +28,5 @@
 ## Связь с другими понятиями
 
 ## Cсылка на библиографию
+[mcconnell-code-book](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/mcconnell-code-book.md)
 
