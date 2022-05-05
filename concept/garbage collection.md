@@ -23,3 +23,4 @@ Tracing:
 ![garbage collection](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/images/garbage-collection.png)
 
 ## Связь с другими понятиями
+[tanenbaum-systems-book{3}](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/tanenbaum-systems-book%7B3%7D.md)
