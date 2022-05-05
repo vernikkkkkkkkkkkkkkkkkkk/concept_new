@@ -14,3 +14,4 @@
 ## Связь с другими понятиями
 
 ## Cсылка на библиографию
+[malyavko-languages-book](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/malyavko-languages-book.md)
