@@ -33,3 +33,4 @@
 ## Связь с другими понятиями
 
 ## Ссылка на библиографию
+[mirzoev-machine-book{2}](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/mirzoev-machine-book%7B2%7D.md)
