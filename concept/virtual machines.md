@@ -43,4 +43,5 @@ Erlang ERTS BEAM
 ## Связь с другими понятиями
 
 ## Cсылка на библиографию
+[gultyaev-machine-book](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/gultyaev-machine-book.md)
 
