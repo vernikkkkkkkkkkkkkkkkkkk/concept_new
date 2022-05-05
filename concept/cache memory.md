@@ -32,4 +32,5 @@
 ## Связь с другими понятиями
 
 ## Cсылка на библиографию
+[tolstobrov-architecture-book](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/tolstobrov-architecture-book.md)
 
