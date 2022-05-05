@@ -36,4 +36,5 @@
 ## Связь с другими понятиями
 
 ## Cсылка на библиографию
+[aho-compilers-book](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/aho-compilers-book.md)
 
