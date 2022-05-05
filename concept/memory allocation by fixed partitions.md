@@ -19,4 +19,4 @@
 ## Связь с другими понятиями
 
 ## Cсылка на библиографию
-
+[karanchuk-fundamentals-book](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/karanchuk-fundamentals-book.md)
