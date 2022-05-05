@@ -34,5 +34,6 @@
 ## Связь с другими понятиями
 
 ## Cсылка на библиографию
+[tanenbaum-architecture-book{6}](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/tanenbaum-architecture-book%7B6%7D.md)
 
 
