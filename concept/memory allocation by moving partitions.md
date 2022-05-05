@@ -20,3 +20,4 @@
 ## Связь с другими понятиями
 
 ## Cсылка на библиографию
+[tanenbaum-architecture-book](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/tanenbaum-architecture-book.md)
