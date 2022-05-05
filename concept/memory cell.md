@@ -11,6 +11,7 @@
 
 
 ## Cсылка на библиографию
+[tanenbaum-systems-book{4}](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/tanenbaum-systems-book%7B4%7D.md)
 
 
 
