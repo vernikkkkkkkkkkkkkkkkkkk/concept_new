@@ -13,5 +13,5 @@ CISC (complex instruction set computing) — тип процессорной а�
 ## Связь с другими понятиями
 
 ## Cсылка на библиографию
-
+[tanenbaum-architecture-book{4}](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/tanenbaum-architecture-book%7B4%7D.md)
 
