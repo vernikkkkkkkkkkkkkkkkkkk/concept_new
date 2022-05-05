@@ -8,3 +8,6 @@
 
 
 ## Связь с другими понятиями
+
+## Ccылка на библиографию
+[mirzoev-machine-book{6}](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/mirzoev-machine-book%7B6%7D.md)
