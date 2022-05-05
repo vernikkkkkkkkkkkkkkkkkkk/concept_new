@@ -18,6 +18,7 @@ cтранично-сегментное распределение памяти (
 
 
 ## Cсылка на библиографию
+[kaspersky-technique-book](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/kaspersky-technique-book.md)
 
 
 
