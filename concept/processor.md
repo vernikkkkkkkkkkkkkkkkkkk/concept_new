@@ -5,3 +5,4 @@
 ## Связь с другими понятиями
 
 ## Ссылка на библиографию
+[tanenbaum-architecture-book{3}](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/tanenbaum-architecture-book%7B3%7D.md)
