@@ -19,3 +19,4 @@
 - разбиение на страницы выполняется транслятором.
 
 ## Cвязь с другими понятиями 
+[tanenbaum-systems-book](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/tanenbaum-systems-book.md)
