@@ -8,3 +8,4 @@
 ## Связь с другими понятиями
 
 ## Ссылка на библиографию
+[mirzoev-machine-book{4}](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/mirzoev-machine-book%7B4%7D.md)
