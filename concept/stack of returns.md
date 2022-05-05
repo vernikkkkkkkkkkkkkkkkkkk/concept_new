@@ -12,4 +12,4 @@ cтек возвратов (eng: data bus)
 
 
 ## Cсылка на библиографию
-
+[babenko-introduction-book{2}](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/babenko-introduction-book%7B2%7D.md)
