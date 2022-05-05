@@ -17,4 +17,5 @@
 ## Связь с другими понятиями
 
 ## Cсылка на библиографию
+[gostev-systems-book{2}](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/gostev-systems-book%7B2%7D.md)
 
