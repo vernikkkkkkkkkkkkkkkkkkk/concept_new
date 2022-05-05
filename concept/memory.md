@@ -8,5 +8,6 @@
 ## Cвязь с другими понятиями 
 
 ## Cсылка на библиографию
+[harris-architecture-book](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/harris-architecture-book.md)
 
 
