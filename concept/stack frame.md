@@ -19,3 +19,4 @@ cтековый кадр (eng: stack frame)
 ## Связь с другими понятиями
 
 ## Cсылка на библиографию
+[babenko-introduction-book](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/babenko-introduction-book.md)
