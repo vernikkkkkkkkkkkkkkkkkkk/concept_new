@@ -13,3 +13,6 @@
 
 
 ## Связь с другими понятиями
+
+## Ссылка на библиографию
+[](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/mirzoev-machine-book%7B5%7D.md)
