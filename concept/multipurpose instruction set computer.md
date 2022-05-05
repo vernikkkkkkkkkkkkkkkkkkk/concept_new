@@ -7,3 +7,5 @@ MISC— вид процессорной архитектуры,
 ## Примечание
 Процессоры образующие компьютеры с минимальным набором команд, как и процессоры 
 RISC характеризуются небольшим числом чаще всего встречающихся команд. Компоненты процессора просты и работают на высоких частотах.
+## Библиография
+[tanenbaum-systems-book{5}](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/tanenbaum-systems-book%7B5%7D.md)
