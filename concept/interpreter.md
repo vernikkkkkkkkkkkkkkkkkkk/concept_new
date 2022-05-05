@@ -18,4 +18,4 @@
 ## Связь с другими понятиями
 
 ## Cсылка на библиографию
-
+[aho-compilers-book{7}](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/aho-compilers-book%7B7%7D.md)
