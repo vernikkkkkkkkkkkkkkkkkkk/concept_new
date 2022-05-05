@@ -17,5 +17,6 @@
 ## Связь с другими понятиями
 
 ## Cсылка на библиографию
+[aho-compilers-book{6}](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/aho-compilers-book%7B6%7D.md)
 
 
