@@ -20,5 +20,6 @@ High Level IR – высокоуровневое представление пр
 ## Связь с другими понятиями
 
 ## Cсылка на библиографию
+[harris-architecture-book{4}](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/harris-architecture-book%7B3%7D.md)
 
 
