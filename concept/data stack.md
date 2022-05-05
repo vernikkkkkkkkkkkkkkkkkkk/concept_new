@@ -14,4 +14,5 @@ cтек данных (eng: data stack)
 ## Связь с другими понятиями
 
 ## Cсылка на библиографию
+[gagarina-introduction-book](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/gagarina-introduction-book.md)
 
