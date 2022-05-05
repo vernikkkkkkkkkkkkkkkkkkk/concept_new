@@ -13,3 +13,4 @@
 
 
 ## Связь с другими понятиями
+[aho-compilers-book{2}](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/aho-compilers-book%7B2%7D.md)
