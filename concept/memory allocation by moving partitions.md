@@ -4,6 +4,7 @@
 ## Определение
 Распределение памяти перемещающимися разделами — один из методов борьбы с фрагментацией - перемещение всех занятых участков в сторону старших либо в сторону младших адресов, так, чтобы вся свободная память образовывала единую свободную область.
 
+## Пример
 ![memory allocation by moving partitions](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/images/memory%20allocation%20by%20moving%20partitions.png)
 
 Эта
