@@ -10,5 +10,6 @@
 ## Связь с другими понятиями
 
 ## Cсылка на библиографию
+[kaspersky-technique-book{2}](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/kaspersky-technique-book%7B2%7D.md)
 
 
