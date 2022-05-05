@@ -16,4 +16,5 @@ Cпособы построения системы команд:
 ## Связь с другими понятиями
 
 ## Cсылка на библиографию
+[hamacher-organization-book](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/hamacher-organization-book.md)
 
