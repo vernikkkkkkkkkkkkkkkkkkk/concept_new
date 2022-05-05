@@ -46,5 +46,5 @@
 
 ## Связь с другими понятиями
 
-## Библиография
+## Cсылка на библиографию
 [mirzoev-machine-book{3}](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/mirzoev-machine-book%7B3%7D.md)
