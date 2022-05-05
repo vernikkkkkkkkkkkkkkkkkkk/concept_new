@@ -20,4 +20,5 @@
 
 
 ## Cсылка на библиографию
+[tuesdays-stack-book](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/tsyrulnikov-set-book.md)
 
