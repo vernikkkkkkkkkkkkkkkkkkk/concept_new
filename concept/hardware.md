@@ -20,5 +20,6 @@
 ## Связь с другими понятиями
 
 ## Cсылка на библиографию
+[denisov-procuring-book](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/denisov-procuring-book.md)
 
 
