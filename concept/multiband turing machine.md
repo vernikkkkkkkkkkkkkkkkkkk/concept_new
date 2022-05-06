@@ -1,5 +1,5 @@
 ## Многоленточная машина Тьринга
-многоленточная машина Тьюринга(eng: multi - band turing machine)
+многоленточная машина Тьюринга(eng: multiband turing machine)
 ## Определение 
 Многоленточной машиной Тьюринга называют расширение [МТ](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/turing%20machine.md), полученное засчёт механического дублирования памяти.
 ## Примечание
