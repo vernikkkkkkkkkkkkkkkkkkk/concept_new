@@ -6,7 +6,7 @@
 ## Пример
 ![memory](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/images/memory.png)
 ## Cвязь с другими понятиями 
-
+[управление памятью](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/memory%20management.md)
 ## Cсылка на библиографию
 [harris-architecture-book](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/harris-architecture-book.md)
 
