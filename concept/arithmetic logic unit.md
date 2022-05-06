@@ -34,7 +34,7 @@
 По своим функциям арифметико-логическое устройство является операционным блоком, выполняющим микрооперации, обеспечивающие приём из других устройств (например, [памяти](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/memory.md)) [операндов](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/operand.md), их преобразование и выдачу результатов преобразования в другие устройства. Арифметико-логическое устройство управляется управляющим блоком, генерирующим управляющие сигналы, инициирующие выполнение в АЛУ определённых микроопераций. Генерируемая управляющим блоком последовательность сигналов определяется [кодом операции](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/operation%20code.md) команды и оповещающими сигналами.
 
 ## Связь с другими понятиями
-
+[процессор](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/processor.md)
 ## Cсылка на библиографию
 [aho-compilers-book](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/aho-compilers-book.md)
 
