@@ -30,7 +30,7 @@
 ![cache memory](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/images/cache%20memory.png)
 
 ## Связь с другими понятиями
-
+[управление памятью](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/memory%20management.md)
 ## Cсылка на библиографию
 [tolstobrov-architecture-book](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/tolstobrov-architecture-book.md)
 
