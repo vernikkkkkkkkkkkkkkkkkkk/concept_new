@@ -42,6 +42,9 @@ Erlang ERTS BEAM
 
 ## Связь с другими понятиями
 
+          [исходная программа](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/source%20program.md)
+          [компилятор](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/compiler.md)
+          интерпретатор](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/interpreter.md)
 ## Cсылка на библиографию
 [gultyaev-machine-book](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/gultyaev-machine-book.md)
 
