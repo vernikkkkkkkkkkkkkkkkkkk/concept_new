@@ -17,4 +17,4 @@ Dalvik отличается от обычной [виртуальной маши
 DEX компилятор преобразует .class файлы java в .dex файлы, которые имеют меньший размер и оптимизированы для Dalvik VM.
 
 ## Cвязь с другими понятиями 
-
+[набор команд далвик](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/command%20set%20Davlik.md)
