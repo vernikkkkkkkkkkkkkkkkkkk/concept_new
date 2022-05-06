@@ -12,6 +12,6 @@
 
 
 ## Связь с другими понятиями
-
+[процессор](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/processor.md)
 ## Cсылка на библиографию
 [malyavko-languages-book](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/malyavko-languages-book.md)
