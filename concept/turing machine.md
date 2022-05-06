@@ -19,13 +19,13 @@
 
 -  [Многоленточная машина Тьюринга](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/multiband%20turing%20machine.md)
 
--  [Двумерная машина Тьюринга] (https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/two-dimensional%20turing%20machine.md)
+-  [Двумерная машина Тьюринга](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/two-dimensional%20turing%20machine.md)
 
--  [Клеточный автомат] (https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/cellular%20automaton.md)
+-  [Клеточный автомат](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/cellular%20automaton.md)
 
--  [Лямбда-исчисление] (https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/lambda%20calculus.md)
+-  [Лямбда-исчисление](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/lambda%20calculus.md)
 
--  [Алгоритм Маркова] (https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/markov%20algorithm.md)
+-  [Алгоритм Маркова](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/markov%20algorithm.md)
 
 
 
