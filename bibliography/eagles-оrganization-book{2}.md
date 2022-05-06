@@ -5,7 +5,7 @@
 ## Ссылка
 https://lib.nsu.ru/xmlui/bitstream/handle/nsu/9052/cilker_organizaciya_evm_i_sistem.pdf?sequence=4&isAllowed=y
 
-## Аннотация
+## Содержание
 -глава 1. Становление и эволюция цифровой вычислительной техники
 
 -глава 2. Архитектура системы команд
