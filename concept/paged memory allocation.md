@@ -19,4 +19,7 @@
 - разбиение на страницы выполняется транслятором.
 
 ## Cвязь с другими понятиями 
+
+[управление памятью](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/memory%20management.md)
+## Список библиографии
 [tanenbaum-systems-book](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/tanenbaum-systems-book.md)
