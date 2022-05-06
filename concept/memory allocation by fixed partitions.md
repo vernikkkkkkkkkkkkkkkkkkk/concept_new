@@ -17,6 +17,6 @@
 
 - осуществляет загрузку программы и настройку адресов.
 ## Связь с другими понятиями
-
+[управление памятью](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/memory%20management.md)
 ## Cсылка на библиографию
 [karanchuk-fundamentals-book](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/karanchuk-fundamentals-book.md)
