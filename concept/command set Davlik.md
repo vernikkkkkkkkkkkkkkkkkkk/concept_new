@@ -1,11 +1,11 @@
 ## Набор команд Давлик
 набор команд давлик (eng: coomand set davlik)
 ## Определение
-Набор инструкций Dalvik полностью основан на регистрах, то есть стека нет.
+Набор инструкций [Dalvik](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/dalvik.md) полностью основан на [регистрах](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/register.md), то есть [стека](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/stack.md) нет.
 
 ## Примечание
 
-Все регистры 32-битные и не имеют типа. Другими словами, хотя компилятор выделяет регистр для каждой локальной переменной, теоретически можно хранить один регистр.
+Все [регистры](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/register.md) 32-битные и не имеют типа. Другими словами, хотя [компилятор](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/compiler.md) выделяет [регистр](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/register.md) для каждой локальной переменной, теоретически можно хранить один [регистр](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/register.md).
 
 
 
