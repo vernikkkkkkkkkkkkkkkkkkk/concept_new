@@ -17,7 +17,7 @@ High Level IR – высокоуровневое представление пр
 ![сode generation](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/images/intermediate_code.png)
 
 ## Связь с другими понятиями
-
+[компилятор](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/compiler.md)
 ## Cсылка на библиографию
 [harris-architecture-book{3}](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/harris-architecture-book%7B3%7D.md)
 
