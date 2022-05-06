@@ -15,7 +15,7 @@ cтранично-сегментное распределение памяти (
 
 ![segment-page memory allocation](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/images/segment-page%20memory%20allocation.png)
 ## Связь с другими понятиями
-
+[управление памятью](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/memory%20management.md)
 
 ## Cсылка на библиографию
 [kaspersky-technique-book](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/kaspersky-technique-book.md)
