@@ -17,6 +17,6 @@ cтековый кадр (eng: stack frame)
 Перед возвратом процедура должна вернуть указатель [стека](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/stack.md) в оригинальное положение (то есть на адрес возврата).
 
 ## Связь с другими понятиями
-
+[стек](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/stack.md)
 ## Cсылка на библиографию
 [babenko-introduction-book](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/babenko-introduction-book.md)
