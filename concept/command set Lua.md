@@ -111,3 +111,6 @@ Signed displacement (in field sBx) for all kinds of jumps
 | CLOSURE  | Create a closure of a function prototype            |
 | VARARG   | Assign vararg function arguments to registers       |
 
+
+## Связь с другими понятиями
+[LiaVM](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/liaVM.md)
