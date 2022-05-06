@@ -1,5 +1,5 @@
-## Набор команд python виртуальная машина
-набор команд "python" виртуальная машина(eng: command set python virtual machines)
+## Набор команд виртуальной машины python 
+набор команд виртуальной машины "python"(eng: command set python virtual machines)
 
 ## Примеры
 
