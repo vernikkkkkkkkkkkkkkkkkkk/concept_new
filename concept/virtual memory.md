@@ -15,7 +15,7 @@
 Все эти действия выполняются автоматически, без участия программиста, то есть механизм виртуальной памяти является прозрачным по отношению к пользователю.
 
 ## Связь с другими понятиями
-
+[управление памятью](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/memory%20management.md)
 ## Cсылка на библиографию
 [gostev-systems-book{2}](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/gostev-systems-book%7B2%7D.md)
 
