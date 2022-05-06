@@ -20,3 +20,4 @@
 
 
 ## Связь с другими понятиями
+[машина Тьюринга](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/turing%20machine.md)
