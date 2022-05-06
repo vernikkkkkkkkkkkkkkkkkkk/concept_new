@@ -222,6 +222,6 @@
 
 ## Связь с другими понятиями
 
-[ДМЬ](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/java%20virtual%20machine.md)
+[JVM](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/java%20virtual%20machine.md)
 
 
