@@ -9,7 +9,7 @@ cтек возвратов (eng: data bus)
 При возврате из подпрограммы или обработчика прерывания, адрес возврата снимается со стека и управление передается на следующую инструкцию приостановленной (под-)программы.
 
 ## Связь с другими понятиями
-
+[стек](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/stack.md)
 
 ## Cсылка на библиографию
 [babenko-introduction-book{2}](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/babenko-introduction-book%7B2%7D.md)
