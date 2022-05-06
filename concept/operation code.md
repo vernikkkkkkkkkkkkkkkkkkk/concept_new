@@ -8,7 +8,8 @@
 
 В зависимости от архитектуры операнды могут быть значениями [регистров](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/register.md), значениями стека, прочими значениями в памяти, портами ввода-вывода и прочими, определение и доступ к которым осуществляется при помощи различных методов адресации. Типы операций включают в себя арифметические действия, копирование данных, логические операции, прочие программные конструкции, в отличие от специальных инструкций 
 
-
+## Связь с другими понятиями
+[компилятор](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/compiler.md)
 ## Cсылка на библиографию
 [bayanov-programming-book{2}](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/bayanov-programming-book%7B2%7D.md)
 
