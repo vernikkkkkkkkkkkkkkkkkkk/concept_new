@@ -8,7 +8,7 @@
 Каждые 8 бит отделены друг от друга либо двоеточием (:), либо дефисом (-). Пример физического адреса: 00:26:57:00:1f:02
 
 ## Связь с другими понятиями
-
+[управление памятью](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/memory%20management.md)
 ## Cсылка на библиографию
 [tanenbaum-systems-book{2}](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/brooks-systems-book%7B2%7D.md)
 
