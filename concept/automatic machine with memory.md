@@ -11,6 +11,6 @@
 На схеме показана замкнутая система, так как для определения абстрактного вычислителя вопросы взаимодействия с внешним миром не являются первостепенными: будем считать, что взаимодействие может осуществляться через запоминающее устройство.
 
 ## Связь с другими понятиями
-
+[машина Тьюринга](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/turing%20machine.md)
 ## Библиография
 [polykarpov-programming-book](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/polykarpov-programming-book.md)
