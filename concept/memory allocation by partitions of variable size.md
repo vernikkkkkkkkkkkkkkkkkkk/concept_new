@@ -26,7 +26,7 @@
 областей.
 
 ## Связь с другими понятиями
-
+[управление памятью](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/memory%20management.md)
 ## Cсылка на библиографию
 [tanenbaum-architecture-book{2}](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/tanenbaum-architecture-book%7B2%7D.md)
 
