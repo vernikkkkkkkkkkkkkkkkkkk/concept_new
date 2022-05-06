@@ -41,10 +41,11 @@ Erlang ERTS BEAM
 ![virtual machines](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/images/virtual%20machines.png)
 
 ## Связь с другими понятиями
-
-          [исходная программа](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/source%20program.md)
-          [компилятор](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/compiler.md)
-          интерпретатор](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/interpreter.md)
+[исходная программа](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/source%20program.md)
+ 
+[компилятор](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/compiler.md)
+          
+[интерпретатор](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/interpreter.md)
 ## Cсылка на библиографию
 [gultyaev-machine-book](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/gultyaev-machine-book.md)
 
