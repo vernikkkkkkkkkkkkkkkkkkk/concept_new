@@ -9,6 +9,6 @@
 ![compilation process](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/images/compilation%20process.png)
 
 ## Связь с другими понятиями
-
+[компилятор](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/compiler.md)
 ## Cсылка на библиографию
 [aho-compilers-book{4}](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/aho-compilers-book%7B4%7D.md)
