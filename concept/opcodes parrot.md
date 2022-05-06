@@ -49,3 +49,8 @@
 | KEY    | Hash key                    | ["name"]       |
 | INTKEY | Integer index               | [5]            |
 | LABEL  | location in code to jump to | jump_here:     |
+
+
+## Связь с другими понятиями
+
+[попугай](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/parrot.md)
