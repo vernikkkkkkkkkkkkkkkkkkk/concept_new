@@ -9,3 +9,6 @@ Lua VM — [регистровая машина](https://github.com/vernikkkkkkk
 Раньше он работал с одним последовательным, расширяемым стеком значений, выталкивая и извлекая значения из вершины стека. 
 Виртуальная машина 5.0 — это [регистровая машина](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/register%20machines.md), которая работает с набором виртуальных [регистров](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/register.md), которые могут хранить 
 локальные переменные функции и воздействовать на них в дополнение к традиционному стеку времени выполнения.
+
+## Связь с другими понятиями
+[набор команд LiaVM](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/command%20set%20Lua.md)
