@@ -20,6 +20,19 @@
 Общая схема работы лексического анализатора:
 
 ![lexical analyzer](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/images/lexical%20analyzer.png "Общая схема работы лексического анализатора")
+
+## Генераторы лексических анализаторов
+
+lex — стандартный генератор в Unix
+
+Flex — альтернативный вариант классической утилиты lex
+
+JLex — генератор на Java
+
+ANTLR
+
+lexertl
+
 ## Связь с другими понятиями
 
 ## Cсылка на библиографию
