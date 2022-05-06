@@ -12,4 +12,6 @@
 ![cellular automaton](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/images/2d_cell_automaton.svg)
 
 ## Связь с другими понятиями
+
+## Ссылка на библиографию
 [polykarpov-programming-book{2}](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/polykarpov-programming-book%7B2%7D.md)
