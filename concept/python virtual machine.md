@@ -10,3 +10,4 @@ PVM - это механизм времени выполнения, она все
 ![pvm](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/images/python.png)
 
 ## Cвязь с другими понятиями 
+[набор команд pvm](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/command%20set%20pvm.md)
