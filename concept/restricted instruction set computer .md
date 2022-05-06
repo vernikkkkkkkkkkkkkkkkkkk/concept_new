@@ -11,7 +11,7 @@ RISC (Restricted Instruction Set Computer) - архитектура [проце�
 При этом, как правило, повышается их производительность. Архитектура RISC является основой современных высокопроизводительных ЭВМ.
 
 ## Связь с другими понятиями
-[машина Тьюринга](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/turing%20machine.md)
+[набор команд](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/instruction%20set.md)
 
 ## Cсылка на библиографию
 [eagles-oraganization-book{4}](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/eagles-%D0%BErganization-book%7B4%7D.md)
