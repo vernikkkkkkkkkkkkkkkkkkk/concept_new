@@ -9,7 +9,9 @@
 
 
 ## Связь с другими понятиями
+[компилятор](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/compiler.md)
 
+[процессор](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/processor.md)
 ## Cсылка на библиографию
 [bayanov-programming-book](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/bayanov-programming-book.md)
 
