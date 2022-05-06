@@ -12,6 +12,6 @@
 Оптимизации также могут классифицироваться в зависимости от области их применения на локальные (оператор, последовательность операторов, базовый блок), внутрипроцедурные, межпроцедурные, внутримодульные и глобальные (оптимизация всей программы, «оптимизация при сборке», «Link-time optimization»).
 
 ## Связь с другими понятиями
-
+[компилятор](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/compiler.md)
 ## Cсылка на библиографию
 [aho-compilers-book{3}](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/aho-compilers-book%7B3%7D.md)
