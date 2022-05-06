@@ -13,6 +13,6 @@
 
 
 ## Связь с другими понятиями
-
+[компилятор](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/compiler.md)
 ## Cсылка на библиографию
 [aho-compilers-book{2}](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/aho-compilers-book%7B2%7D.md)
