@@ -50,3 +50,4 @@
 Собственные библиотеки – это коллекция Собственных библиотек (C, C ++), которые необходимы для механизма исполнения.
 
 ## Связь с другими понятиями
+[виртуальная машина java](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/java%20virtual%20machine.md)
