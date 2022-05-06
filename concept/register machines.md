@@ -25,6 +25,6 @@
 На иллюстрации приведена условная схема “регистровой машины”, которая состоит из трёх частей: [процессора](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/processor.md), выполняющего операции над натуральными числами, программы (ПЗУ), которая представляет собой последовательность пронумерованных инструкций и памяти (ОЗУ), состоящей из пронумерованных регистров.
 
 ## Cвязь с другими понятиями 
-
+[регистр](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/register.md)
 ## Cсылка на библиографию
 [savitsky-calculations-book](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/savitsky-calculations-book.md)
