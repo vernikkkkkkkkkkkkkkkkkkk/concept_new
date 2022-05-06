@@ -8,7 +8,7 @@
 
 ![segmented memory allocation](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/images/segmented%20memory%20allocation.jpg)
 ## Связь с другими понятиями
-
+[управление памятью](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/memory%20management.md)
 ## Cсылка на библиографию
 [kaspersky-technique-book{2}](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/kaspersky-technique-book%7B2%7D.md)
 
