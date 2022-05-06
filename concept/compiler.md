@@ -36,11 +36,11 @@
 
 [интерпретатор](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/interpreter.md)
 
-[компиляция(логическая структура компилятора)(https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/compiler.md)
+[компиляция](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/compiler.md)
 
 [лексический анализатор](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/lexical%20analyzer.md)
 
-[синтаксический анализатор]https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/parser.md)
+[синтаксический анализатор](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/parser.md)
 
 [семантический анализатор](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/semantic%20analyzer.md)
              
