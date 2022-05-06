@@ -23,7 +23,7 @@
 
 
 ## Связь с другими понятиями
-
+[стек](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/stack.md)
 ## Cсылка на библиографию
 [tuesdays-stack-book](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/tuesdays-stack-book%7B1%7D.md)
 
