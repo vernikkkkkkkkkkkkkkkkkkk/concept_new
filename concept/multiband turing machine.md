@@ -6,6 +6,6 @@
 Т.е. потенциально бесконечных лент и головок становится несколько (но фиксированное число) и входной сигнал автомата формируется как кортеж символов в текущих позициях на всех лентах, а выходной сигнал содержит кортеж символов на запись на всех лентах и вектор действий для всех головок.
 
 ## Связь с другими понятиями
-
+[машина Тьюринга](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/turing%20machine.md)
 ## Ссылка на библиографию
 [mirzoev-machine-book{4}](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/mirzoev-machine-book%7B4%7D.md)
