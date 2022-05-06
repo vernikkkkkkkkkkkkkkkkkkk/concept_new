@@ -222,7 +222,6 @@
 
 ## Связь с другими понятиями
 
-
-## Cсылка на библиографию
+[ДМЬ](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/java%20virtual%20machine.md)
 
 
