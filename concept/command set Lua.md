@@ -2,35 +2,61 @@
 набор команд "lua" (eng:command set lua)
 
 ## Примечание
-Инструкции байт-кода Lua имеют размер 32 бита. Все инструкции имеют код операции в первых 6 битах. Инструкции могут иметь следующие поля:
+Инструкции [байт-кода](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/byte-code.md) [Lua](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/liaVM.md) имеют размер 32 бита. Все инструкции имеют код операции в первых 6 битах. 
+
+Инструкции могут иметь следующие поля:
 
 'A' : 8 bits
+
 'B' : 9 bits
+
 'C' : 9 bits
+
 'Ax' : 26 bits ('A', 'B', and 'C' together)
+
 'Bx' : 18 bits ('B' and 'C' together)
+
 'sBx' : signed Bx
 
-## Набор инструкций
+## Набор инструкций/команд
 R(A)
+
 Register A (specified in instruction field A)
+
 R(B)
+
 Register B (specified in instruction field B)
+
 R(C)
+
 Register C (specified in instruction field C)
+
 PC
+
 Program Counter
+
 Kst(n)
+
 Element n in the constant list
+
 Upvalue[n]
+
 Name of upvalue with index n
+
 Gbl[sym]
+
 Global variable indexed by symbol sym
+
 RK(B)
+
 Register B or a constant index
+
 RK(C)
+
 Register C or a constant index
+
 sBx
+
 Signed displacement (in field sBx) for all kinds of jumps
 
 ## Opcode
