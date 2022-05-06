@@ -15,7 +15,7 @@
 К атрибутам относятся тип идентификатора, его адрес в объектной программе и любая другая информация о нем, которая может понадобиться при генерации объектной программы.
 
 ## Связь с другими понятиями
-
+[компилятор](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/compiler.md)
 ## Cсылка на библиографию
 [aho-compilers-book{6}](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/aho-compilers-book%7B6%7D.md)
 
