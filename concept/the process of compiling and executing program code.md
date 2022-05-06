@@ -43,3 +43,4 @@
 
 
 ## Связь с другими понятиями
+[виртуальная машина Java](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/java%20virtual%20machine.md)
