@@ -14,3 +14,8 @@ JVM отвечает за распределение памяти.
 ![jvm](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/images/jvm.png)
 
 ## Связь с другими понятиями
+[архитектура jvm](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/architecture%20jvm.md)
+
+[процесс компиляции и исполнения программного кода] (https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/the%20process%20of%20compiling%20and%20executing%20program%20code.md)
+
+[сборщик мусора](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/garbage%20collection.md)
