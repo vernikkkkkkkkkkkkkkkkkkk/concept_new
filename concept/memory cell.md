@@ -8,7 +8,7 @@
 Ячейки памяти имеют адрес (порядковый номер, число) по которым к ним могут обращаться команды [процессора](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/processor.md). Существует две основные системы адресации памяти: прямая (команда процессора обращается к информации, которая хранится в ячейке памяти) и косвенная (команда процессора обращается к адресу ячейки памяти, в которой хранится информация).
 
 ## Связь с другими понятиями
-
+[управление памятью](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/memory%20management.md)
 
 ## Cсылка на библиографию
 [tanenbaum-systems-book{4}](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/tanenbaum-systems-book%7B4%7D.md)
