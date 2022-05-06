@@ -19,7 +19,7 @@
 
 
 ## Связь с другими понятиями
-
+[стековые машины](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/stack%20machines.md)
 
 
 ## Cсылка на библиографию
