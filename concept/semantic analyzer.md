@@ -8,6 +8,4 @@
 
 
 ## Связь с другими понятиями
-
-
-## Cсылка на библиографию
+[компилятор](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/compiler.md)
