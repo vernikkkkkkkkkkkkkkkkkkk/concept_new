@@ -45,6 +45,6 @@
 
 
 ## Связь с другими понятиями
-
+[машина Тьюринга](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/turing%20machine.md)
 ## Cсылка на библиографию
 [mirzoev-machine-book{3}](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/mirzoev-machine-book%7B3%7D.md)
