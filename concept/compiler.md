@@ -22,8 +22,15 @@
 
 Общая схема работы компилятора:
 
-![compiler](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/images/compiler.png "Общая схема работы компилятора")
+![compiler](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/images/compiler.png)
 
+## Примеры компилируемых языков
+- C
+- C++
+- C#
+- Go
+- Swift
+- Delphi
 ## Связь с другими понятиями
 
 [виртуальная машина](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/virtual%20machines.md)
