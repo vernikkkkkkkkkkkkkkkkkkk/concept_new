@@ -15,11 +15,20 @@
 
 ![interpreter](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/images/intepretator.png "Общая схема работы интепретатора")
 
+
+## Примеры интерпретируемых языков
+- Python
+- JavaScript
+- LISP
+- Perl
+- Ruby
+- Pascal
+- PHP
 ## Связь с другими понятиями
 [промежуточный код](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/byte-code.md)
 
 [виртуальная машина](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/virtual%20machines.md)
 
-[компилятор]https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/compiler.md
+[компилятор](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/compiler.md)
 ## Cсылка на библиографию
 [aho-compilers-book{7}](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/aho-compilers-book%7B7%7D.md)
