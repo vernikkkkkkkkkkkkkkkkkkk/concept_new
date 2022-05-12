@@ -18,6 +18,6 @@
 виртуальной формы в физическую должно выполняться
 динамическим способом.
 ## Связь с другими понятиями
-[управление памятью](memory%20management.md)
+[управление памятью](memory_management.md)
 ## Cсылка на библиографию
 [tanenbaum-architecture-book](../bibliography/tanenbaum-architecture-book.md)
