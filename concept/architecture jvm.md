@@ -2,7 +2,7 @@
 архитектура виртуальной машины "java"(eng: java virtual machine architecture) 
 
 ## Части архитектуры 
-Внутренняя архитектура [виртуальной машины Java](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/java%20virtual%20machine.md) состоит из трех основных частей.
+Внутренняя архитектура [виртуальной машины Java](java%20virtual%20machine.md) состоит из трех основных частей.
 
 - Загрузчик классов
 - Область памяти
