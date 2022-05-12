@@ -13,6 +13,6 @@
 
 
 ## Связь с другими понятиями
-[машина Тьюринга](turing%20machine.md)
+[машина Тьюринга](turing_machine.md)
 ## Ссылка на библиографию
 [mirzoev-machine-book{5}](../bibliography/mirzoev-machine-book%7B5%7D.md)
