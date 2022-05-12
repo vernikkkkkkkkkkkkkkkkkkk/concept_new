@@ -6,31 +6,31 @@
 
 ## Связь с другими понятиями
 
-[кэш-память](cache%20memory.md)
+[кэш-память](cache_memory.md)
 
 [аппаратное обеспечение](hardware.md)
 
-[распределение памяти фиксированными разделами](memory%20allocation%20by%20fixed%20partitions.md)
+[распределение памяти фиксированными разделами](memory_allocation_by_fixed_partitions.md)
 
-[распределение памяти перемещающимися разделами](memory%20allocation%20by%20moving%20partitions.md)
+[распределение памяти перемещающимися разделами](memory_allocation_by_moving_partitions.md)
 
-[распределение памяти разделами переменной величины](memory%20allocation%20by%20partitions%20of%20variable%20size.md)
+[распределение памяти разделами переменной величины](memory_allocation_by_partitions_of_variable_size.md)
 
 [память](memory.md)
 
-[страничное распределение памяти](paged%20memory%20allocation.md)
+[страничное распределение памяти](paged_memory_allocation.md)
 
-[сегментное распределение памяти](segmented%20memory%20allocation.md)
+[сегментное распределение памяти](segmented_memory_allocation.md)
 
-[физический адрес](physical%20address.md)
+[физический адрес](physical_address.md)
 
-[ячейка памяти](memory%20cell.md)
+[ячейка памяти](memory_cell.md)
 
-[сегментно-страничное распределение памяти](segment-page%20memory%20allocation.md)
+[сегментно-страничное распределение памяти](segment-page_memory_allocation.md)
 
 [свопинг](swapping.md)
 
-[виртуальная память](virtual%20memory.md)
+[виртуальная память](virtual_memory_1.md)
 ## Cсылка на библиографию
 [coconut-memory-book](../bibliography/coconut-memory-book.md)
 
