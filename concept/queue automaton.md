@@ -9,10 +9,10 @@
 
 Последовательная память — очередь символов:
 
-![queue automaton](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/images/qa_memory.svg)
+![queue automaton](../images/qa_memory.svg)
 
 
 ## Связь с другими понятиями
-[машина Тьюринга](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/turing%20machine.md)
+[машина Тьюринга](turing%20machine.md)
 ## Ссылка на библиографию
-[mirzoev-machine-book{5}](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/mirzoev-machine-book%7B5%7D.md)
+[mirzoev-machine-book{5}](../bibliography/mirzoev-machine-book%7B5%7D.md)
