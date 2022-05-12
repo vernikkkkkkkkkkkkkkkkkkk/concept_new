@@ -2,7 +2,7 @@
 промежуточная генерация кода(eng: сode generation) 
 
 ## Определение
-Промежуточная генерация кода — часть [процесса компиляции](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/compilation%20process.md), когда специальная часть [компилятора](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/compiler.md), кодогенератор, конвертирует синтаксически корректную программу в последовательность инструкций, которые могут выполняться на машине. При этом могут применяться различные, в первую очередь машинно-зависимые оптимизации. Часто кодогенератор является общей частью для множества [компиляторов](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/compiler.md). Каждый из них генерирует промежуточный код, который подаётся на вход кодогенератору.
+Промежуточная генерация кода — часть [процесса компиляции](compilation%20process.md), когда специальная часть [компилятора](compiler.md), кодогенератор, конвертирует синтаксически корректную программу в последовательность инструкций, которые могут выполняться на машине. При этом могут применяться различные, в первую очередь машинно-зависимые оптимизации. Часто кодогенератор является общей частью для множества [компиляторов](compiler.md). Каждый из них генерирует промежуточный код, который подаётся на вход кодогенератору.
 ## Способы представления
 Промежуточные коды могут быть представлены различными способами:
 
@@ -14,11 +14,11 @@ High Level IR – высокоуровневое представление пр
 ## Пример
 Промежуточная генерация кода:
 
-![сode generation](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/images/intermediate_code.png)
+![сode generation](../images/intermediate_code.png)
 
 ## Связь с другими понятиями
-[компилятор](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/compiler.md)
+[компилятор](compiler.md)
 ## Cсылка на библиографию
-[harris-architecture-book{3}](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/harris-architecture-book%7B3%7D.md)
+[harris-architecture-book{3}](../bibliography/harris-architecture-book%7B3%7D.md)
 
 
