@@ -2,7 +2,7 @@
 парсер(eng: parser) 
 
 ## Определение
-Парсер(синтаксический анализ) —  это часть [компилятора](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/compiler.md), которая отвечает за выявление основных синтаксических конструкций входного языка.
+Парсер(синтаксический анализ) —  это часть [компилятора](compiler.md), которая отвечает за выявление основных синтаксических конструкций входного языка.
 ## Задачи
 
 Задачи синтаксического анализа:
@@ -30,10 +30,10 @@
 ## Примечание
 Место синтаксического анализатора в структуре компилятора:
 
-![parser](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/images/parser.png "Место синтаксического анализатора в структуре компилятора")
+![parser](../images/parser.png "Место синтаксического анализатора в структуре компилятора")
 ## Связь с другими понятиями
-[компилятор](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/compiler.md)
+[компилятор](compiler.md)
 ## Cсылка на библиографию
-[tanenbaum-architecture-book{6}](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/tanenbaum-architecture-book%7B6%7D.md)
+[tanenbaum-architecture-book{6}](../bibliography/tanenbaum-architecture-book%7B6%7D.md)
 
 
