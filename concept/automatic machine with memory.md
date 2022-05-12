@@ -6,11 +6,11 @@
 
 ## Примечание
 
-![automatic machine with memory](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/images/automaton_with_storage.svg)
+![automatic machine with memory](../images/automaton_with_storage.svg)
 
 На схеме показана замкнутая система, так как для определения абстрактного вычислителя вопросы взаимодействия с внешним миром не являются первостепенными: будем считать, что взаимодействие может осуществляться через запоминающее устройство.
 
 ## Связь с другими понятиями
-[машина Тьюринга](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/turing%20machine.md)
+[машина Тьюринга](turing%20machine.md)
 ## Библиография
-[polykarpov-programming-book](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/polykarpov-programming-book.md)
+[polykarpov-programming-book](../bibliography/polykarpov-programming-book.md)
