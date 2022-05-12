@@ -2,10 +2,10 @@
 распределение памяти перемещающимися разделами (eng: memory allocation by moving partitions) 
 
 ## Определение
-Распределение памяти перемещающимися разделами — один из методов борьбы с фрагментацией - перемещение всех занятых участков в сторону старших либо в сторону младших адресов, так, чтобы вся свободная [память](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/memory.md) образовывала единую свободную область.
+Распределение памяти перемещающимися разделами — один из методов борьбы с фрагментацией - перемещение всех занятых участков в сторону старших либо в сторону младших адресов, так, чтобы вся свободная [память](memory.md) образовывала единую свободную область.
 
 ## Пример
-![memory allocation by moving partitions](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/images/memory%20allocation%20by%20moving%20partitions.png)
+![memory allocation by moving partitions](../images/memory%20allocation%20by%20moving%20partitions.png)
 
 Эта
 процедура называется "сжатием". Сжатие может выполняться либо
@@ -18,6 +18,6 @@
 виртуальной формы в физическую должно выполняться
 динамическим способом.
 ## Связь с другими понятиями
-[управление памятью](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/memory%20management.md)
+[управление памятью](memory%20management.md)
 ## Cсылка на библиографию
-[tanenbaum-architecture-book](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/tanenbaum-architecture-book.md)
+[tanenbaum-architecture-book](../bibliography/tanenbaum-architecture-book.md)
