@@ -20,9 +20,9 @@ Tracing:
 
 Главная идея «Tracing» связана с тем, что до «живого» объекта можно добраться из корневых точек (GC Root). Всё, что доступно из «живого» объекта, также является «живым». Если представить все объекты и ссылки между ними как дерево, то необходимо пройти от корневых узлов GC Roots по всем узлам. При этом узлы, до которых нельзя добраться, являются мусором.
 
-![garbage collection](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/images/garbage-collection.png)
+![garbage collection](../images/garbage-collection.png)
 
 ## Связь с другими понятиями
-[виртуальная машина java](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/java%20virtual%20machine.md)
+[виртуальная машина java](java%20virtual%20machine.md)
 ## Cсылка на библиографию
-[tanenbaum-systems-book{3}](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/tanenbaum-systems-book%7B3%7D.md)
+[tanenbaum-systems-book{3}](../bibliography/tanenbaum-systems-book%7B3%7D.md)
