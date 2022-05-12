@@ -6,7 +6,7 @@
 ## Пример
 Схема формирования физического адреса при сегментной организации оперативной памяти:
 
-![segmented memory allocation](../images/segmented_memory_allocation.jpg)
+![segmented memory allocation](../images/segmented memory allocation.jpg)
 ## Связь с другими понятиями
 [управление памятью](memory_management.md)
 ## Cсылка на библиографию
