@@ -2,17 +2,17 @@
 машинный код(eng: machine code) 
 
 ## Определение
-Машинный код — система команд (набор кодов операций) конкретной вычислительной машины, которая интерпретируется непосредственно [процессором](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/processor.md) или микропрограммами этой вычислительной машины.
+Машинный код — система команд (набор кодов операций) конкретной вычислительной машины, которая интерпретируется непосредственно [процессором](processor.md) или микропрограммами этой вычислительной машины.
 ## Примечание
 Компьютерная программа, записанная на машинном языке, состоит из машинных инструкций, каждая из которых представлена в машинном коде в виде т. н. опкода — двоичного кода отдельной операции из системы команд машины. Для удобства программирования вместо числовых опкодов, которые только и понимает процессор, обычно используют их условные буквенные мнемоники. 
 
 
 
 ## Связь с другими понятиями
-[компилятор](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/compiler.md)
+[компилятор](compiler.md)
 
-[процессор](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/processor.md)
+[процессор](processor.md)
 ## Cсылка на библиографию
-[bayanov-programming-book](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/bayanov-programming-book.md)
+[bayanov-programming-book](../bibliography/bayanov-programming-book.md)
 
 
