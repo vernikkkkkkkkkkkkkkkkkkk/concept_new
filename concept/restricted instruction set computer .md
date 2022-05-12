@@ -2,18 +2,18 @@
 компьютер с ограниченным набором команд(eng:restricted instruction set computer )
 ## Определение
 
-RISC (Restricted Instruction Set Computer) - архитектура [процессора](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/processor.md), в которой быстродействие увеличивается за счет упрощения инструкций, 
+RISC (Restricted Instruction Set Computer) - архитектура [процессора](processor.md), в которой быстродействие увеличивается за счет упрощения инструкций, 
 чтобы их декодирование было более простым, а время выполнения - короче. 
 ## Примечание
-В [процессорах](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/processor.md) с RISC-архитектурой используется ограниченный набор быстрых команд. Каждая команда RISC-процессора должна выполняться за один машинный такт. 
+В [процессорах](processor.md) с RISC-архитектурой используется ограниченный набор быстрых команд. Каждая команда RISC-процессора должна выполняться за один машинный такт. 
 Это облегчает повышение тактовой частоты и делает более эффективной суперскалярность (распараллеливание инструкций между несколькими исполнительными блоками).
 В таких микропроцессорах содержится меньшее количество транзисторов, что снижает их стоимость и энергопотребление.
 При этом, как правило, повышается их производительность. Архитектура RISC является основой современных высокопроизводительных ЭВМ.
 
 ## Связь с другими понятиями
-[набор команд](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/instruction%20set.md)
+[набор команд](instruction%20set.md)
 
 ## Cсылка на библиографию
-[eagles-oraganization-book{4}](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/eagles-%D0%BErganization-book%7B4%7D.md)
+[eagles-oraganization-book{4}](../bibliography/eagles-%D0%BErganization-book%7B4%7D.md)
 
 
