@@ -10,7 +10,7 @@
 
 Байт-код занимает промежуточное положение между результирующим объектным (исполняемым) кодом и интерпретируемой программой. 
 
-Для выполнения инструкций байт-кода требуется наличие специальной программы – [интерпретатора](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/interpreter.md), называемого также [виртуальной машиной](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/virtual%20machines.md).
+Для выполнения инструкций байт-кода требуется наличие специальной программы – [интерпретатора](interpreter.md), называемого также [виртуальной машиной](virtual%20machines.md).
 
 Свойства:
 
@@ -18,7 +18,7 @@
 
  - Эффективность. Поскольку байт-код обычно менее абстрактный,  более компактный и более приближен к машинному уровню, чем исходный код, эффективность байт-кода обычно выше, чем чистая интерпретация исходного кода. 
 
-Многие интерпретируемые языки на самом деле транслируют исходный текст в байт-код и далее запускают [интерпретатор](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/interpreter.md) байт-кода (Perl, PHP, Ruby и Python).
+Многие интерпретируемые языки на самом деле транслируют исходный текст в байт-код и далее запускают [интерпретатор](interpreter.md) байт-кода (Perl, PHP, Ruby и Python).
 
 Программы на Java обычно передаются на целевую машину в виде байт-кода, который перед исполнением транслируется в машинный код «на лету».
 
@@ -26,9 +26,9 @@
 
 
 ## Связь с другими понятиями
-[интерпретатор](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/interpreter.md)
+[интерпретатор](interpreter.md)
 
-[компилятор](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/compiler.md)
+[компилятор](compiler.md)
 ## Cсылка на библиографию
-[mcconnell-code-book](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/mcconnell-code-book.md)
+[mcconnell-code-book](../bibliography/mcconnell-code-book.md)
 
