@@ -37,10 +37,13 @@ LLVM предоставляет бесконечный набор типизир
 разные коды операций для операций над целыми числами со знаком и без знака, значениями с плавающей запятой одинарной или двойной точности,
 арифметические или логические сдвиги и т. д. Типы операндов автоматически определяют семантику операции и
 тип результата и должен следовать строгим правилам типов.
+
 Например, вот несколько простых операций LLVM:
-#%X = div int 4, 9 ; Signed integer division
-%Y = div uint 12, 4 ; Unsigned integer division
-%cond = seteq int %X, 8 ; Produces a boolean value
-br bool %cond, label %True, label %False
+```
+ #%X = div int 4, 9                                 ; Signed integer division
+ %Y = div uint 12, 4                                ; Unsigned integer division
+ %cond = seteq int %X, 8                            ; Produces a boolean value
+ br bool %cond, label %True, label %False
 True:
-...#
+ ...
+```
