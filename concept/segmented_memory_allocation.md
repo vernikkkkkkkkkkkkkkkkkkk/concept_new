@@ -6,9 +6,9 @@
 ## Пример
 Схема формирования физического адреса при сегментной организации оперативной памяти:
 
-![segmented memory allocation](../images/segmented%20memory%20allocation.jpg)
+![segmented memory allocation](../images/segmented_memory_allocation.jpg)
 ## Связь с другими понятиями
-[управление памятью](memory%20management.md)
+[управление памятью](memory_management.md)
 ## Cсылка на библиографию
 [kaspersky-technique-book{2}](../bibliography/kaspersky-technique-book%7B2%7D.md)
 
