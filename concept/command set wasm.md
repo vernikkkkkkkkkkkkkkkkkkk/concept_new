@@ -1,5 +1,5 @@
 ## Набор команд васм
-набор команд васм(eng:instuction set wasm) 
+набор команд васм(eng:command set wasm) 
 
 ## Описание
 
