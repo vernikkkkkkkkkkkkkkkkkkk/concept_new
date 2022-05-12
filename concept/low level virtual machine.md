@@ -2,12 +2,12 @@
 виртуальная машина низкого уровня(eng: low level virtual machine) 
 
 ## Определение
-LLVM (Low Level Virtual Machine) — проект программной инфраструктуры для создания компиляторов и сопутствующих им утилит.
-Состоит из набора компиляторов из языков высокого уровня, системы оптимизации, интерпретации
-и компиляции в машинный код. В основе инфраструктуры используется RISC-подобная платформонезависимая система кодирования машинных инструкций 
+LLVM (Low Level Virtual Machine) — проект программной инфраструктуры для создания [компиляторов](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/compiler.md) и сопутствующих им утилит.
+Состоит из набора [компиляторов](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/compiler.md) из языков высокого уровня, системы [оптимизации](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/code%20optimization.md), [интерпретации](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/interpreter.md)
+и [компиляции](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/compilation%20process.md) в [машинный код](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/machine%20code.md). В основе инфраструктуры используется [RISC](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/restricted%20instruction%20set%20computer%20.md)-подобная платформонезависимая система кодирования машинных инструкций 
 (байткод LLVM IR), которая представляет собой высокоуровневый ассемблер, с которым работают различные преобразования.
 ## Компиляция языков
-В настоящее время LLVM поддерживает компиляцию языков:
+В настоящее время LLVM поддерживает [компиляцию](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/the%20process%20of%20compiling%20and%20executing%20program%20code.md) языков:
 
 - Ada
 
