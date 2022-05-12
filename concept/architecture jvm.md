@@ -9,7 +9,7 @@
 - Исполнительный механизм
  
 Визуальное представление архитектуры JVM.
-![architecture_jvm](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/images/jvm%7B2%7D.png "Архитектура виртуальной машины java")
+![architecture_jvm](images/jvm%7B2%7D.png "Архитектура виртуальной машины java")
 
 Описание всех части виртуальной машины Java:
 
@@ -50,4 +50,4 @@
 Собственные библиотеки – это коллекция Собственных библиотек (C, C ++), которые необходимы для механизма исполнения.
 
 ## Связь с другими понятиями
-[виртуальная машина java](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/java%20virtual%20machine.md)
+[виртуальная машина java](java%20virtual%20machine.md)
