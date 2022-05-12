@@ -17,6 +17,6 @@
 
 - осуществляет загрузку программы и настройку адресов.
 ## Связь с другими понятиями
-[управление памятью](memory%20management.md)
+[управление памятью](memory_management.md)
 ## Cсылка на библиографию
 [karanchuk-fundamentals-book](../bibliography/karanchuk-fundamentals-book.md)
