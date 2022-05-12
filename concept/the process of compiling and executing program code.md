@@ -7,7 +7,7 @@
 
 1) Редактор – для ввода вашей программы, блокнот может быть использован для этого
 
-2) [Компилятор](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/compiler.md) – для преобразования вашей программы на высоком языке в машинный код
+2) [Компилятор](compiler.md) – для преобразования вашей программы на высоком языке в машинный код
 
 3) Линкер – для объединения различных файловых ссылок в вашей основной программе.
 
@@ -19,28 +19,28 @@
 
 Предположим, в основном вы вызвали две функции f1 и f2. Основная функция хранится в файле a1.c.
 
-![jvm](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/images/The%20process%20of%20compiling%20and%20executing%20program%20code.png)
+![jvm](../images/The%20process%20of%20compiling%20and%20executing%20program%20code.png)
 
 Функция f1 хранится в файле a2.c
 
-![jvm](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/images/The%20process%20of%20compiling%20and%20executing%20program%20code%7B2%7D.png)
+![jvm](../images/The%20process%20of%20compiling%20and%20executing%20program%20code%7B2%7D.png)
 
 Функция f2 хранится в файле a3.c
 
-![jvm](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/images/The%20process%20of%20compiling%20and%20executing%20program%20code%7B3%7D.png)
+![jvm](../images/The%20process%20of%20compiling%20and%20executing%20program%20code%7B3%7D.png)
 
 Все эти файлы, то есть a1.c, a2.c и a3.c, передаются компилятору. Чьим выводом являются соответствующие объектные файлы, которые являются машинным кодом
 
-![jvm](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/images/The%20process%20of%20compiling%20and%20executing%20program%20code%7B4%7D.png)
+![jvm](../images/The%20process%20of%20compiling%20and%20executing%20program%20code%7B4%7D.png)
 
 Следующим шагом является объединение всех этих объектных файлов в один файл .exe с помощью компоновщика. Компоновщик объединит все эти файлы вместе и создаст файл .exe.
 
-![jvm](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/images/The%20process%20of%20compiling%20and%20executing%20program%20code%7B5%7D.png)
+![jvm](../images/The%20process%20of%20compiling%20and%20executing%20program%20code%7B5%7D.png)
 
 Во время выполнения программы программа-загрузчик загрузит файл a.exe в оперативную память для выполнения.
 
-![jvm](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/images/The%20process%20of%20compiling%20and%20executing%20program%20code%7B6%7D.png)
+![jvm](../images/The%20process%20of%20compiling%20and%20executing%20program%20code%7B6%7D.png)
 
 
 ## Связь с другими понятиями
-[виртуальная машина Java](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/java%20virtual%20machine.md)
+[виртуальная машина Java](java%20virtual%20machine.md)
