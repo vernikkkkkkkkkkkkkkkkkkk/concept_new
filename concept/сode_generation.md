@@ -17,7 +17,7 @@ High Level IR – высокоуровневое представление пр
 ![сode generation](../images/intermediate_code.png)
 
 ## Связь с другими понятиями
-[компилятор](compiler.md)
+[компилятор](compiler_1.md)
 ## Cсылка на библиографию
 [harris-architecture-book{3}](../bibliography/harris-architecture-book%7B3%7D.md)
 
