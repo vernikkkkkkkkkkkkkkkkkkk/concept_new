@@ -18,6 +18,6 @@ WebAssembly ( Wasm ) определяет переносимый формат д
 
 Исходный код C и соответствующий WebAssembly:
 
-![image](https://user-images.githubusercontent.com/94898852/168036994-697c82d4-351a-43ba-887a-52e20691e54b.png)
+![wasm](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/images/wasm.png)
 ## Cвязь с другими понятиями 
 [набор команд веб-асемблера]()
