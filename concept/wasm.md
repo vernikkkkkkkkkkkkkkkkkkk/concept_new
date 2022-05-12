@@ -20,4 +20,4 @@ WebAssembly ( Wasm ) определяет переносимый формат д
 
 ![wasm](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/images/wasm.png)
 ## Cвязь с другими понятиями 
-[набор команд веб-асемблера]()
+[набор команд веб-асемблера](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/command%20set%20wasm.md)
