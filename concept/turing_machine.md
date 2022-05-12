@@ -15,34 +15,34 @@
 ## Примечание
 Другие эквивалентные машины и методы :
 
--  [Автомат с памятью](automatic%20machine%20with%20memory.md)
+-  [Автомат с памятью](automatic_machine_with_memory.md)
 
--  [Многоленточная машина Тьюринга](multiband%20turing%20machine.md)
+-  [Многоленточная машина Тьюринга](multiband_turing_machine.md)
 
--  [Двумерная машина Тьюринга](two-dimensional%20turing%20machine.md)
+-  [Двумерная машина Тьюринга](two-dimensional_turing_machine.md)
 
--  [Клеточный автомат](cellular%20automaton.md)
+-  [Клеточный автомат](cellular_automaton.md)
 
--  [Лямбда-исчисление](lambda%20calculus.md)
+-  [Лямбда-исчисление](lambda_calculus.md)
 
--  [Алгоритм Маркова](markov%20algorithm.md)
+-  [Алгоритм Маркова](markov_algorithm.md)
 
 
 
 
 ## Связь с другими понятиями
 
-[Автомат с памятью](automatic%20machine%20with%20memory.md)
+[Автомат с памятью](automatic_machine_with_memory.md)
 
-[Многоленточная машина Тьюринга](multiband%20turing%20machine.md)
+[Многоленточная машина Тьюринга](multiband_turing_machine.md)
 
-[Двумерная машина Тьюринга](two-dimensional%20turing%20machine.md)
+[Двумерная машина Тьюринга](two-dimensional_turing_machine.md)
 
-[Клеточный автомат](cellular%20automaton.md)
+[Клеточный автомат](cellular_automaton.md)
 
-[Лямбда-исчисление](lambda%20calculus.md)
+[Лямбда-исчисление](lambda_calculus.md)
 
-[Алгоритм Маркова](markov%20algorithm.md)
+[Алгоритм Маркова](markov_algorithm.md)
 
 
 ## Ссылка на библиографию
