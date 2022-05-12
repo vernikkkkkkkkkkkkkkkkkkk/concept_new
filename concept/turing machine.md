@@ -5,7 +5,7 @@
 ## Пример
 Лента — запоминающее устройство машины Тьюринга:
 
-![tm_memory](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/images/tm_memory.svg)
+![tm_memory](../images/tm_memory.svg)
 
 Работа запоминающего устройства на каждый шаг автомата состоит из трёх стадий:
 
@@ -15,35 +15,35 @@
 ## Примечание
 Другие эквивалентные машины и методы :
 
--  [Автомат с памятью](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/automatic%20machine%20with%20memory.md)
+-  [Автомат с памятью](automatic%20machine%20with%20memory.md)
 
--  [Многоленточная машина Тьюринга](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/multiband%20turing%20machine.md)
+-  [Многоленточная машина Тьюринга](multiband%20turing%20machine.md)
 
--  [Двумерная машина Тьюринга](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/two-dimensional%20turing%20machine.md)
+-  [Двумерная машина Тьюринга](two-dimensional%20turing%20machine.md)
 
--  [Клеточный автомат](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/cellular%20automaton.md)
+-  [Клеточный автомат](cellular%20automaton.md)
 
--  [Лямбда-исчисление](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/lambda%20calculus.md)
+-  [Лямбда-исчисление](lambda%20calculus.md)
 
--  [Алгоритм Маркова](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/markov%20algorithm.md)
+-  [Алгоритм Маркова](markov%20algorithm.md)
 
 
 
 
 ## Связь с другими понятиями
 
-[Автомат с памятью](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/automatic%20machine%20with%20memory.md)
+[Автомат с памятью](automatic%20machine%20with%20memory.md)
 
-[Многоленточная машина Тьюринга](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/multiband%20turing%20machine.md)
+[Многоленточная машина Тьюринга](multiband%20turing%20machine.md)
 
-[Двумерная машина Тьюринга](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/two-dimensional%20turing%20machine.md)
+[Двумерная машина Тьюринга](two-dimensional%20turing%20machine.md)
 
-[Клеточный автомат](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/cellular%20automaton.md)
+[Клеточный автомат](cellular%20automaton.md)
 
-[Лямбда-исчисление](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/lambda%20calculus.md)
+[Лямбда-исчисление](lambda%20calculus.md)
 
-[Алгоритм Маркова](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/markov%20algorithm.md)
+[Алгоритм Маркова](markov%20algorithm.md)
 
 
 ## Ссылка на библиографию
-[mirzoev-machine-book{2}](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/mirzoev-machine-book%7B2%7D.md)
+[mirzoev-machine-book{2}](../bibliography/mirzoev-machine-book%7B2%7D.md)
