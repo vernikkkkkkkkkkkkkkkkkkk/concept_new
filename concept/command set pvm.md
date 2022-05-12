@@ -413,4 +413,4 @@ LOAD_GLOBAL     имя
 Вызывает функцию. argc интерпретируется как CALL_FUNCTION. Верхний элемент в стеке содержит словарь аргументов ключевого слова, за которым следует кортеж переменных аргументов, за которым следуют явные аргументы ключевого слова и позиционные аргументы. 
 
 ## Связь с другими машинами
-[PVM](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/python%20virtual%20machine.md)
+[PVM](python%20virtual%20machine.md)
