@@ -17,7 +17,7 @@
 
 3. Если нужных данных нет, то они вместе со своим адресом копируются из
 оперативной памяти в кэш-память, и результат выполнения запроса
-передается в [процессор](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/processor.md). При копировании данных может оказаться, что в
+передается в [процессор](processor.md). При копировании данных может оказаться, что в
 кэш-памяти нет свободного места, тогда выбираются данные, к которым в
 последний период было меньше всего обращений, для вытеснения из кэш-
 памяти. Если вытесняемые данные были модифицированы за время
@@ -27,10 +27,10 @@
 
 Схема функционирования кэш-памяти:
 
-![cache memory](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/images/cache%20memory.png)
+![cache memory](../images/cache%20memory.png)
 
 ## Связь с другими понятиями
-[управление памятью](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/memory%20management.md)
+[управление памятью](memory%20management.md)
 ## Cсылка на библиографию
-[tolstobrov-architecture-book](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/tolstobrov-architecture-book.md)
+[tolstobrov-architecture-book](../bibliography/tolstobrov-architecture-book.md)
 
