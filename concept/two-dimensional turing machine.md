@@ -2,12 +2,12 @@
 двумерная машина тьюринга(eng: two-dimensional turing machine) 
 
 ## Определение
-Двумерная машина Тьюринга вместо одномерной ленты головка [машины Тьюринга](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/turing%20machine.md) может перемещаться по неограниченному во всех направлениях двумерному полю ячеек.
+Двумерная машина Тьюринга вместо одномерной ленты головка [машины Тьюринга](turing%20machine.md) может перемещаться по неограниченному во всех направлениях двумерному полю ячеек.
 ## Пример
-![two-dimensional turing machine](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/images/tm2d_memory.svg)
+![two-dimensional turing machine](../images/tm2d_memory.svg)
 
 
 ## Связь с другими понятиями
-[машина Тьюринга](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/turing%20machine.md)
+[машина Тьюринга](turing%20machine.md)
 ## Ccылка на библиографию
-[mirzoev-machine-book{6}](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/mirzoev-machine-book%7B6%7D.md)
+[mirzoev-machine-book{6}](../bibliography/mirzoev-machine-book%7B6%7D.md)
