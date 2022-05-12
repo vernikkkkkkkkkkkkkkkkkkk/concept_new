@@ -3,10 +3,10 @@
 
 ## Определение
 Стек – последовательный контейнер, обеспечивающий вставку элемента в вершину стека и удаление элемента из вершины стека. 
-## Приме
+## Пример
 Общая схема работы стека:
 
-![stack](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/images/Stack.png "Общая схема работы стека")
+![stack](../images/Stack.png "Общая схема работы стека")
 
 Возможны три операции со стеком: 
 - добавление элемента (иначе проталкивание, push), 
@@ -19,9 +19,9 @@
 
 
 ## Связь с другими понятиями
-[стековые машины](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/stack%20machines.md)
+[стековые машины](stack%20machines.md)
 
 
 ## Cсылка на библиографию
-[tuesdays-stack-book](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/tsyrulnikov-set-book.md)
+[tuesdays-stack-book](../bibliography/tsyrulnikov-set-book.md)
 
