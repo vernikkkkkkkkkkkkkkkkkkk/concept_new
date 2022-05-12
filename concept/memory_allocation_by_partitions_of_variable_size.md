@@ -26,7 +26,7 @@
 областей.
 
 ## Связь с другими понятиями
-[управление памятью](memory%20management.md)
+[управление памятью](memory_management.md)
 ## Cсылка на библиографию
 [tanenbaum-architecture-book{2}](../bibliography/tanenbaum-architecture-book%7B2%7D.md)
 
