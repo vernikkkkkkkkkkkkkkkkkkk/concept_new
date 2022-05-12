@@ -2,12 +2,12 @@
 распределение памяти разделами переменной величины (eng: memory allocation by partitions of variable size) 
 
 ## Определение
-Распределение памяти разделами переменной величины — [память](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/memory.md) машины не делится заранее на разделы.
+Распределение памяти разделами переменной величины — [память](memory.md) машины не делится заранее на разделы.
 ## Примечание
-Сначала вся [память](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/memory.md) свободна. Каждой вновь поступающей задаче выделяется необходимая ей память. Если достаточный объем памяти отсутствует, то задача не принимается на выполнение и стоит в очереди. После завершения задачи память освобождается, и на это место может быть загружена другая задача. Таким образом, в произвольный момент времени оперативная память представляет собой случайную последовательность 
+Сначала вся [память](memory.md) свободна. Каждой вновь поступающей задаче выделяется необходимая ей память. Если достаточный объем памяти отсутствует, то задача не принимается на выполнение и стоит в очереди. После завершения задачи память освобождается, и на это место может быть загружена другая задача. Таким образом, в произвольный момент времени оперативная память представляет собой случайную последовательность 
 занятых и свободных участков (разделов) произвольного размера. 
 
-![memory allocation by partitions of variable size](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/images/memory%20allocation%20by%20partitions%20of%20variable%20size.png)
+![memory allocation by partitions of variable size](../images/memory%20allocation%20by%20partitions%20of%20variable%20size.png)
 
 Задачами операционной системы при реализации данного метода управления
 памятью является:
@@ -26,7 +26,7 @@
 областей.
 
 ## Связь с другими понятиями
-[управление памятью](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/memory%20management.md)
+[управление памятью](memory%20management.md)
 ## Cсылка на библиографию
-[tanenbaum-architecture-book{2}](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/tanenbaum-architecture-book%7B2%7D.md)
+[tanenbaum-architecture-book{2}](../bibliography/tanenbaum-architecture-book%7B2%7D.md)
 
