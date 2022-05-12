@@ -20,6 +20,6 @@
 
 ## Cвязь с другими понятиями 
 
-[управление памятью](memory%20management.md)
+[управление памятью](memory_management.md)
 ## Список библиографии
 [tanenbaum-systems-book](../bibliography/tanenbaum-systems-book.md)
