@@ -2,7 +2,7 @@
 cтранично-сегментное распределение памяти (eng: segment-page memory allocation) 
 
 ## Описание
-Данный метод представляет собой комбинацию [сегментного](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/segmented%20memory%20allocation.md) и [страничного распределения памяти](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/paged%20memory%20allocation.md) и, вследствие этого, сочетает в себе достоинства обоих подходов. 
+Данный метод представляет собой комбинацию [сегментного](segmented%20memory%20allocation.md) и [страничного распределения памяти](paged%20memory%20allocation.md) и, вследствие этого, сочетает в себе достоинства обоих подходов. 
 ## Примечание
 Виртуальное пространство процесса делится на сегменты, а каждый сегмент в свою очередь делится на виртуальные страницы, которые нумеруются в пределах сегмента. 
 Оперативная память делится на физические страницы. Загрузка процесса выполняется операционной системой постранично, при этом часть страниц размещается в оперативной памяти, а часть на диске.
@@ -13,12 +13,12 @@ cтранично-сегментное распределение памяти (
 ## Пример
 Схема преобразования виртуального адреса в физический для данного метода.
 
-![segment-page memory allocation](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/images/segment-page%20memory%20allocation.png)
+![segment-page memory allocation](../images/segment-page%20memory%20allocation.png)
 ## Связь с другими понятиями
-[управление памятью](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/memory%20management.md)
+[управление памятью](memory%20management.md)
 
 ## Cсылка на библиографию
-[kaspersky-technique-book](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/kaspersky-technique-book.md)
+[kaspersky-technique-book](../bibliography/kaspersky-technique-book.md)
 
 
 
