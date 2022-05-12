@@ -30,7 +30,7 @@
 ![cache memory](../images/cache%20memory.png)
 
 ## Связь с другими понятиями
-[управление памятью](memory%20management.md)
+[управление памятью](memory_management.md)
 ## Cсылка на библиографию
 [tolstobrov-architecture-book](../bibliography/tolstobrov-architecture-book.md)
 
