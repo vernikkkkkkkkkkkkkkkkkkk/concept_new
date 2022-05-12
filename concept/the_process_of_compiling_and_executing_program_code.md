@@ -39,7 +39,7 @@
 
 Во время выполнения программы программа-загрузчик загрузит файл a.exe в оперативную память для выполнения.
 
-![jvm](../images/The%20process%20of%20compiling%20and%20executing%20programvcode%7B6%7D.png)
+![jvm](../images/The%20process%20of%20compiling%20and%20executing%20program%20code%7B6%7D.png)
 
 
 ## Связь с другими понятиями
