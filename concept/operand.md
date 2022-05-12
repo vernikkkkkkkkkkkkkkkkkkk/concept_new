@@ -16,7 +16,7 @@
 - многоместные (или полиадические) операции.
 
 ## Связь с другими понятиями
-[стековая машина](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/stack%20machines.md)
+[стековая машина](stack%20machines.md)
 ## Ссылка на библиографию
-[tanenbaum-systems-book{5}](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/tanenbaum-systems-book%7B5%7D.md)
+[tanenbaum-systems-book{5}](../bibliography/tanenbaum-systems-book%7B5%7D.md)
 
