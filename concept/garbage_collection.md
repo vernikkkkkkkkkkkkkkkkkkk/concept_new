@@ -23,6 +23,6 @@ Tracing:
 ![garbage collection](../images/garbage-collection.png)
 
 ## Связь с другими понятиями
-[виртуальная машина java](java%20virtual%20machine.md)
+[виртуальная машина java](java_virtual_machine.md)
 ## Cсылка на библиографию
 [tanenbaum-systems-book{3}](../bibliography/tanenbaum-systems-book%7B3%7D.md)
