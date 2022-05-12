@@ -6,7 +6,7 @@
 ## Пример
 ![memory](../images/memory.png)
 ## Cвязь с другими понятиями 
-[управление памятью](memory%20management.md)
+[управление памятью](memory_management.md)
 ## Cсылка на библиографию
 [harris-architecture-book](../bibliography/harris-architecture-book.md)
 
