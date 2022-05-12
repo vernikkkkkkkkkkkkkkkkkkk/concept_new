@@ -8,7 +8,7 @@
 ## Примечание
 Блок-схема алгоритма обращения к страничной памяти (виртуальная память):
 
-![ paged memory allocation](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/images/paged%20memory%20allocation.png)
+![ paged memory allocation](../images/paged%20memory%20allocation.png)
 
 Блоки 1 - 7 -аппаратная реализация;
 Блоки 8 - 17 -программная реализация.
@@ -20,6 +20,6 @@
 
 ## Cвязь с другими понятиями 
 
-[управление памятью](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/memory%20management.md)
+[управление памятью](memory%20management.md)
 ## Список библиографии
-[tanenbaum-systems-book](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/tanenbaum-systems-book.md)
+[tanenbaum-systems-book](../bibliography/tanenbaum-systems-book.md)
