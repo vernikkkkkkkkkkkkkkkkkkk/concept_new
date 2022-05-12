@@ -2,7 +2,7 @@
 набор команд "java" виртуальная машина(eng: command set java virtual machine) 
 
 ## Определение
-Инструкция [виртуальной машины Java](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/java%20virtual%20machine.md) состоит из [кода операции](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/operation%20code.md), определяющего работу, которая будет выполняться, 
+Инструкция [виртуальной машины Java](java%20virtual%20machine.md) состоит из [кода операции](operation%20code.md), определяющего работу, которая будет выполняться, 
 следоваться нулем или большим количеством операндов, воплощающих значения. 
 
 ## Примечание
@@ -222,6 +222,6 @@
 
 ## Связь с другими понятиями
 
-[JVM](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/java%20virtual%20machine.md)
+[JVM](java%20virtual%20machine.md)
 
 
