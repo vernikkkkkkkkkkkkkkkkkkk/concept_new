@@ -1,11 +1,11 @@
 ## Набор команд Давлик
 набор команд давлик (eng: coomand set davlik)
 ## Определение
-Набор инструкций [Dalvik](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/dalvik.md) полностью основан на [регистрах](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/register.md), то есть [стека](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/stack.md) нет.
+Набор инструкций [Dalvik](dalvik.md) полностью основан на [регистрах](register.md), то есть [стека](stack.md) нет.
 
 ## Примечание
 
-Все [регистры](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/register.md) 32-битные и не имеют типа. Другими словами, хотя [компилятор](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/compiler.md) выделяет [регистр](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/register.md) для каждой локальной переменной, теоретически можно хранить один [регистр](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/register.md).
+Все [регистры](httpregister.md) 32-битные и не имеют типа. Другими словами, хотя [компилятор](compiler.md) выделяет [регистр](register.md) для каждой локальной переменной, теоретически можно хранить один [регистр](register.md).
 
 
 
@@ -274,4 +274,4 @@
   
   
   ## Связь с другими понятиями
-  [далвик](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/dalvik.md)
+  [далвик](dalvik.md)
