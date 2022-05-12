@@ -2,7 +2,7 @@
 оптимизация программного кода(eng: code optimization) 
 
 ## Определение
-Оптимизация программного кода — модификация программ, выполняемая оптимизирующим [компилятором](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/compiler.md) или [интерпретатором](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/interpreter.md) с целью улучшения их характеристик, таких как производительности или компактности, — без изменения функциональности.
+Оптимизация программного кода — модификация программ, выполняемая оптимизирующим [компилятором](compiler.md) или [интерпретатором](interpreter.md) с целью улучшения их характеристик, таких как производительности или компактности, — без изменения функциональности.
 
 ## Примечание
 Оптимизации бывают машинно-независимыми (высокоуровневыми) и машинно-зависимыми (низкоуровневыми).
@@ -12,6 +12,6 @@
 Оптимизации также могут классифицироваться в зависимости от области их применения на локальные (оператор, последовательность операторов, базовый блок), внутрипроцедурные, межпроцедурные, внутримодульные и глобальные (оптимизация всей программы, «оптимизация при сборке», «Link-time optimization»).
 
 ## Связь с другими понятиями
-[компилятор](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/compiler.md)
+[компилятор](compiler.md)
 ## Cсылка на библиографию
-[aho-compilers-book{3}](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/aho-compilers-book%7B3%7D.md)
+[aho-compilers-book{3}](../bibliography/aho-compilers-book%7B3%7D.md)
