@@ -2,7 +2,7 @@
 набор команд "lua" (eng:command set lua)
 
 ## Примечание
-Инструкции [байт-кода](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/byte-code.md) [Lua](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/liaVM.md) имеют размер 32 бита. Все инструкции имеют код операции в первых 6 битах. 
+Инструкции [байт-кода](byte-code.md) [Lua](liaVM.md) имеют размер 32 бита. Все инструкции имеют код операции в первых 6 битах. 
 
 Инструкции могут иметь следующие поля:
 
@@ -113,4 +113,4 @@ Signed displacement (in field sBx) for all kinds of jumps
 
 
 ## Связь с другими понятиями
-[LiaVM](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/liaVM.md)
+[LiaVM](liaVM.md)
