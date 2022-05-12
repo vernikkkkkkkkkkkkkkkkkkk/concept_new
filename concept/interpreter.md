@@ -2,7 +2,7 @@
 интерпретатор(eng: interpreter) 
 
 ## Определение
-Интерпретатор — переводит и выполняет программу строка за строкой, производит пооператорный (покомандный, построчный) анализ, обрабатывает и тут же выполняет исходную программу или запроса (в отличие от [компиляции](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/compilation%20process.md), при которой программа транслируется без её выполнения).
+Интерпретатор — переводит и выполняет программу строка за строкой, производит пооператорный (покомандный, построчный) анализ, обрабатывает и тут же выполняет исходную программу или запроса (в отличие от [компиляции](compilation%20process.md), при которой программа транслируется без её выполнения).
 
 ## Примечание
 Типы интерпретаторов:
@@ -13,7 +13,7 @@
 
 Общая схема работы интерпретатора:
 
-![interpreter](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/images/intepretator.png "Общая схема работы интепретатора")
+![interpreter](../images/intepretator.png "Общая схема работы интепретатора")
 
 
 ## Примеры интерпретируемых языков
@@ -25,10 +25,10 @@
 - Pascal
 - PHP
 ## Связь с другими понятиями
-[промежуточный код](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/byte-code.md)
+[промежуточный код](byte-code.md)
 
-[виртуальная машина](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/virtual%20machines.md)
+[виртуальная машина](virtual%20machines.md)
 
-[компилятор](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/compiler.md)
+[компилятор](compiler.md)
 ## Cсылка на библиографию
-[aho-compilers-book{7}](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/aho-compilers-book%7B7%7D.md)
+[aho-compilers-book{7}](../bibliography/aho-compilers-book%7B7%7D.md)
