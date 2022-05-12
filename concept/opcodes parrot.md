@@ -53,4 +53,4 @@
 
 ## Связь с другими понятиями
 
-[попугай](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/parrot.md)
+[попугай](parrot.md)
