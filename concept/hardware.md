@@ -7,7 +7,7 @@
 ## Примечание
 Структура аппаратного обеспечения ПК:
 
-![hardware](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/images/hardware.png "Структура аппаратного обеспечения ПК.")
+![hardware](../images/hardware.png "Структура аппаратного обеспечения ПК.")
 
 Устройства, входящие в состав системного блока:
    
@@ -18,8 +18,8 @@
 | Периферийные устройства	принтер     | сканер, графопостроитель, модем, микрофон, акустика, ИБП, клавиатура                                                   |       
 
 ## Связь с другими понятиями
-[управление памятью](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/concept/memory%20management.md)
+[управление памятью](memory%20management.md)
 ## Cсылка на библиографию
-[denisov-procuring-book](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/bibliography/denisov-procuring-book.md)
+[denisov-procuring-book](../bibliography/denisov-procuring-book.md)
 
 
