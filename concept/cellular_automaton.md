@@ -15,3 +15,4 @@
 [машина Тьюринга](turing_machine.md)
 ## Ссылка на библиографию
 [polykarpov-programming-book{2}](../bibliography/polykarpov-programming-book%7B2%7D.md)
+
